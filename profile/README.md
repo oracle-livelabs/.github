@@ -12,7 +12,6 @@ LiveLabs is the place to explore Oracle's products and services using workshops 
 ## All Oracle GitHub organizations
 
 * [Oracle](https://github.com/oracle) – the main Oracle GitHub organization
-* [AddThis](https://github.com/addthis)- a social sharing platform
 * [Fn Project](https://github.com/fnproject) – the container native, cloud agnostic serverless platform
 * [Java Community Process](https://github.com/jcp-org) – developing standard technical specifications for Java technology
 * [Java EE](https://github.com/javaee) – the Java Enterprise Edition platform
