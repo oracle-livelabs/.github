@@ -13,6 +13,7 @@ LiveLabs is the place to explore Oracle's products and services using workshops 
 
 * [Oracle](https://github.com/oracle) – the main Oracle GitHub organization
 * [Fn Project](https://github.com/fnproject) – the container native, cloud agnostic serverless platform
+* [Helidon](https://github.com/helidon-io) – cloud-native set of Java libraries for writing microservices
 * [Java Community Process](https://github.com/jcp-org) – developing standard technical specifications for Java technology
 * [Java EE](https://github.com/javaee) – the Java Enterprise Edition platform
 * [MySQL](https://github.com/mysql) –  the world's most popular open source database
